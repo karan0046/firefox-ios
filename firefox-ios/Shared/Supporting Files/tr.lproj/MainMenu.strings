@@ -92,7 +92,7 @@
 "MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Subtitle.v132" = "Yer imi ekle";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to save a bookmark for this particular page.. */
-"MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Title.v132" = "Bu sayfayı yer imlerine ekle";
+"MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Title.v132" = "Sayfayı yer imlerine ekle";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to edit the bookmark for this particular page. */
 "MainMenu.Submenus.Save.AccessibilityLabels.EditBookmark.Title.v132" = "Yer imini düzenle";
@@ -272,7 +272,7 @@
 "MainMenu.ToolsSection.AccessibilityLabels.Save.v132" = "Kaydet";
 
 /* On the main menu, the accessibility label for the action that will take the user to the Save submenu in the menu. In the main menu, there is an option called Save that is taking the user to the Save submenu where user can share, bookmark the page and so on. */
-"MainMenu.ToolsSection.AccessibilityLabels.Save.v133" = "Alt menüyü kaydet";
+"MainMenu.ToolsSection.AccessibilityLabels.Save.v133" = "Kaydet alt menüsü";
 
 /* On the main menu, the accessibility label for the action that will switch a site from mobile version to the desktop version, if available. */
 "MainMenu.ToolsSection.AccessibilityLabels.SwitchToDesktopSite.v132" = "Masaüstü sitesine geç";
