@@ -92,7 +92,7 @@
 "MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Subtitle.v132" = "Ավելացնել Էջանիշ";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to save a bookmark for this particular page.. */
-"MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Title.v132" = "Էջանշել այս էջը";
+"MainMenu.Submenus.Save.AccessibilityLabels.BookmarkThisPage.Title.v132" = "Էջանշել սա";
 
 /* On the main menu, in the Save submenu, the accessibility label for the menu component that allows a user to edit the bookmark for this particular page. */
 "MainMenu.Submenus.Save.AccessibilityLabels.EditBookmark.Title.v132" = "Խմբագրել Էջանիշը";
@@ -119,7 +119,7 @@
 "MainMenu.Submenus.Save.AddToHomeScreen.Subtitle.v131" = "Տուն";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to add a website to the home screen. */
-"MainMenu.Submenus.Save.AddToHomeScreen.Title.v131" = "Պատկերակը հեռախոսի էկրանին";
+"MainMenu.Submenus.Save.AddToHomeScreen.Title.v131" = "Ավելացնել տնային էկրանին";
 
 /* On the main menu, a string below the Save submenu title, indicating what kind of tools are available in that menu. This string is for the Shortcuts tool. */
 "MainMenu.Submenus.Save.AddToShortcuts.Subtitle.v131" = "Դյուրանցում";
@@ -131,7 +131,7 @@
 "MainMenu.Submenus.Save.BookmarkThisPage.Subtitle.v131" = "Ավելացնել Էջանիշ";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to save a bookmark for this particular page.. */
-"MainMenu.Submenus.Save.BookmarkThisPage.Title.v131" = "Էջանշել այս էջը";
+"MainMenu.Submenus.Save.BookmarkThisPage.Title.v131" = "Էջանշել սա";
 
 /* On the main menu, in the Save submenu, the title for the menu component that allows a user to edit the bookmark for this particular page. */
 "MainMenu.Submenus.Save.EditBookmark.Title.v131" = "Խմբագրել էջանիշը";
