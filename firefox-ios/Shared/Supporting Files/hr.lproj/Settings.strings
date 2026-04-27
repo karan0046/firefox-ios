@@ -64,6 +64,27 @@
 /* Label used as an item in Settings screen. When touched, it will take user to address autofill settings page to that will allow user to add or modify saved addresses to allow for autofill in a webpage. */
 "Settings.AddressAutofill.Title.v126" = "Adrese";
 
+/* Default section header title under page zoom settings. Indicates the default value for all websites */
+"Settings.Appearance.Zoom.Default.Title.v140" = "Standardno";
+
+/* Page zoom section header title in Appearance settings */
+"Settings.Appearance.Zoom.SectionHeader.v140" = "Postavke zumiranja";
+
+/* Specific site settings section footer title under page zoom settings. Explain how to add elements to the list */
+"Settings.Appearance.Zoom.SpecificSiteZoom.Footer.v140" = "Za dodvanje na ovaj popis, posjeti web stranicu i prilagodi zumiranje stranice u izborniku";
+
+/* Specific site settings section header title under page zoom settings. List all websites with custom zoom level */
+"Settings.Appearance.Zoom.SpecificSiteZoom.Title.v140" = "Specifične postavke web stranice";
+
+/* Page zoom settings title in Appearance settings */
+"Settings.Appearance.Zoom.Title.v140" = "Zumiranje stranice";
+
+/* Zoom level title under page zoom settings to select the default zoom level for all websites */
+"Settings.Appearance.Zoom.ZoomLevelTitle.v140" = "Razina zumiranja";
+
+/* In the settings menu, in the General section, this is the title for Autofills & Passwords customization section. */
+"Settings.AutofillAndPassword.Title.v137" = "Automatska ispunjavanja i lozinke";
+
 /* Label used as an item in Settings screen. When touched, it will take user to credit card settings page to that will allows to add or modify saved credit cards to allow for autofill in a webpage. */
 "Settings.AutofillCreditCard.Title.v122" = "Načini plaćanja";
 
@@ -95,22 +116,13 @@
 "Settings.Browsing.Title.v137" = "Pregledavanje";
 
 /* Title for a link that explains how Mozilla send crash reports. */
-"Settings.CrashReports.Link.v135" = "Saznaj više.";
-
-/* Title for a link that explains how Mozilla send crash reports. */
 "Settings.CrashReports.Link.v136" = "Saznaj više";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
-"Settings.CrashReports.Message.v135" = "Izvještaji o prekidima programa nam omogućuju dijagnosticirati i popraviti probleme s preglednikom.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Message.v136" = "Ovo nam pomaže dijagnosticirati i popraviti probleme s preglednikom.";
 
 /* On the Settings screen, this is the title text for a toggle which controls automatically sending crash reports. */
 "Settings.CrashReports.Title.v135" = "Automatski šalji izvještaje o prekidu programa";
-
-/* Title for a link that explains how Mozilla send daily usage ping. */
-"Settings.DailyUsagePing.Link.v135" = "Saznaj više.";
 
 /* Title for a link that explains how Mozilla send daily usage ping. */
 "Settings.DailyUsagePing.Link.v136" = "Saznaj više";
@@ -137,7 +149,7 @@
 "Settings.Notifications.TipsAndFeaturesNotificationsStatus.v112" = "Saznaj više o korisnim funkcijama i kako najbolje iskoristiti %@.";
 
 /* This is the title for the setting that toggles Tips and Features feature in the settings menu under the Notifications section. */
-"Settings.Notifications.TipsAndFeaturesNotificationsTitle.v112" = "Savjeti i značajke";
+"Settings.Notifications.TipsAndFeaturesNotificationsTitle.v112" = "Savjeti i funkcije";
 
 /* In the settings menu, in the Privacy section, this is the title for Notifications customization section. */
 "Settings.Notifications.Title.v112" = "Obavijesti";
@@ -149,7 +161,10 @@
 "Settings.Notifications.TurnOnNotificationsTitle.v112" = "Uključi obavijesti";
 
 /* Show Firefox Browser Privacy Notice page from the Privacy section in the settings. See https://www.mozilla.org/privacy/firefox/ */
-"Settings.PrivacyNotice.Title.v137" = "Napomena o privatnosti";
+"Settings.PrivacyNotice.Title.v137" = "Napomene o privatnosti";
+
+/* In the settings menu, in the General section, this is the title for the option that allows user to disable the autohide feature of the tab and address bar. */
+"Settings.ScrollToHideTabAndAddressBar.Title.v138" = "Pomicanjem sakrij karticu i adresnu traku";
 
 /* Accessibility label for default search engine setting. */
 "Settings.Search.Accessibility.DefaultSearchEngine.v121" = "Standardna tražilica";
@@ -167,7 +182,7 @@
 "Settings.Search.EnginesSuggestions.Title.v124" = "Prijedlozi tražilica";
 
 /* Navigation title for search page in the Settings menu. */
-"Settings.Search.PageTitle.v121" = "Traži";
+"Settings.Search.PageTitle.v121" = "Pretraga";
 
 /* Description for `Show in Private Sessions` toggle, located in `Suggestions from Search Engines` section in the Search page in the Settings menu. */
 "Settings.Search.PrivateSession.Description.v125" = "Prikaži prijedloge tražilica u privatnim sesijama";
@@ -176,7 +191,7 @@
 "Settings.Search.PrivateSession.Setting.v124" = "Prikaži u privatnim sesijama";
 
 /* Label for the `show search suggestions` setting, in the Search Settings page. */
-"Settings.Search.ShowSuggestions.v121" = "Prikaži prijedloge pretraživanja";
+"Settings.Search.ShowSuggestions.v121" = "Prikaži prijedloge pretrage";
 
 /* In the Search page of the Settings menu, the title for the Firefox Suggest settings section. */
 "Settings.Search.Suggest.AddressBarSetting.Title.v124" = "Adresna traka – Firefox prijedlozi";
@@ -218,19 +233,10 @@
 "Settings.Studies.Title.v136" = "Instaliraj i pokreni istraživanja";
 
 /* Title for a link that explains how Mozilla send technical and interaction data. */
-"Settings.TechnicalData.Link.v135" = "Saznaj više.";
-
-/* Title for a link that explains how Mozilla send technical and interaction data. */
 "Settings.TechnicalData.Link.v136" = "Saznaj više";
-
-/* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %1$@ is the company name (e.g. Mozilla), %2$@ is the app name (e.g. Firefox). */
-"Settings.TechnicalData.Message.v135" = "%1$@ nastoji sakupljati samo onoliko koliko nam treba da osiguramo i poboljšamo %2$@ za sve.";
 
 /* On the Settings screen, this is the subtitle text for a toggle which controls sending technical and interaction data. %@ is the app name (e.g. Firefox). */
 "Settings.TechnicalData.Message.v136" = "Podaci o tvom uređaju, hardverskoj konfiguraciji i načinu korištenja nam pomažu poboljšati %@ funkcije, performansu i stabilnost.";
-
-/* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
-"Settings.TechnicalData.Title.v135" = "Tehnički podaci i podaci o interakciji";
 
 /* On the Settings screen, this is the title text for a toggle which controls sending technical and interaction data. */
 "Settings.TechnicalData.Title.v136" = "Šalji tehničke podatke i podatke o interakciji";
